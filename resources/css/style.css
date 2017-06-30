@@ -3,9 +3,6 @@
   font-family: Helvetica, sans-serif;
 }
 
-.header {
-}
-
 .bold {
   font-weight: bold;
 }
@@ -24,15 +21,19 @@
 #bgimg {
   background-image: url("../the-flatiron-building.png");
   background-size: cover;
-  padding: 0px;
+  background-repeat: no-repeat;
+  text-align: center;
 }
-
 ul {
   list-style-type: none;
 }
 
 li {
   margin: 10px;
+}
+
+.bold {
+  font-weight: bold;
 }
 
 h1 {
