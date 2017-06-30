@@ -21,6 +21,10 @@
   text-align: left;
 }
 
+#bgimg {
+  background-image: url("resources/the-flatiron-building.png")
+}
+
 ul {
   list-style-type: none;
 }
@@ -49,4 +53,8 @@ p {
 #copyright {
   font-size: 11px;
   background-color: dimgray;
+}
+
+#left {
+  text-align: left;
 }
