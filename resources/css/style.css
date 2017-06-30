@@ -22,7 +22,9 @@
 }
 
 #bgimg {
-  background-image: url("./resources/the-flatiron-building.png");
+  background-image: url("../the-flatiron-building.png");
+  background-size: cover;
+  padding: 0px;
 }
 
 ul {
